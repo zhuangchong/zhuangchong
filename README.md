@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kerwin</h1>
 
-<h4 align="center">Hi, I'm Kerwin, a data engineer from China 🇨🇳. </h4>
+<h4 align="center">A data engineer from China 🇨🇳. </h4>
 
 **About me**
 <p>
